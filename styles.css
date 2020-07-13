@@ -1,0 +1,55 @@
+html {
+    background: url(images/calisun.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+#infoColumn {
+    border-top: 0px;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(121, 41, 41);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.place {
+    color:royalblue;
+}
+
+.place {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 16px;
+    color: rgba(231, 245, 247, 0.945);
+}
+
+#list {
+    font-size: 20px;
+}
+
+#locationList {
+    text-align: center;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+figcaption {
+    text-align: center;
+    padding-bottom: 70px;
+    color: white;
+}
